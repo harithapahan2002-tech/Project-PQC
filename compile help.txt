@@ -1,0 +1,7 @@
+gcc server.c -o server -loqs -lcrypto -Wall -Wextra
+gcc client.c -o client -loqs -lcrypto -Wall -Wextra
+
+
+...........................................
+
+rename the server.c/client.c according to ur file name and -o server to -oserver<> aswell
