@@ -1,0 +1,5 @@
+gcc -O2 server.c -o server -loqs -lcrypto
+gcc -O2 client.c -o client -loqs -lcrypto
+
+..................................
+client.c/server.c to the defined file name to the file name in ur directory.
