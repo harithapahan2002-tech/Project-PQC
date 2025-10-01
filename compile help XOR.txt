@@ -4,4 +4,5 @@ gcc client.c -o client -loqs -lcrypto -Wall -Wextra
 
 ...........................................
 
-rename the server.c/client.c according to ur file name and -o server to -oserver<> aswell
+rename the server.c/client.c according to ur file name and -o server to -o server<> aswell
+
